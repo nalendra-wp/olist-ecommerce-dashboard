@@ -18,8 +18,7 @@ These are associations in observational data. The analysis does not show that la
 ## Data
 
 - **Source:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) on Kaggle (about 100K orders, 2016–2018).
-- **Licensing:** the dataset is published on Kaggle by Olist under its own license (check the Kaggle page for terms). The data is **not redistributed** in this repository. Download it from Kaggle to reproduce the analysis.
-
+- **Licensing:** the dataset is published on Kaggle by Olist under the **CC BY-NC-SA 4.0** license (attribution, non-commercial, share-alike). The data is **not redistributed** in this repository. Download it from Kaggle to reproduce the analysis.
 ## What the notebook does
 
 1. Loads the 9 CSV files and checks their sizes.
@@ -69,6 +68,7 @@ These are associations in observational data. The analysis does not show that la
 ## Tools
 
 Python · pandas · Google Colab · Looker Studio
+
 
 ## Author
 
